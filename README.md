@@ -1,24 +1,42 @@
 👋  Hi, I’m Shaik Mohammad Ismael Jabivulla and welcome to my Github profile.
 
-🔹 Business Operations | Data Analytics | Business Intelligence 
+I’m a Data Analyst with 2.5+ years of experience in turning raw data into clear insights that help businesses grow. I work with SQL, Python, Power BI, Excel, and Tableau to solve real problems, build dashboards, and support decision-making.
 
-👉 I specialize in business operations and analytics to drive efficiency and growth. With experience as a Business Operations Associate (Operational Analyst) at NxtWave, I managed data for business teams, analyzed campaign results, prepared financial reports, and presented findings to senior management. 
-👉 Throughout my journey, I have successfully contributed to operational analysis, vendor payments, data management, and reporting, ensuring streamlined processes and efficiency. 
-👉 My experience includes a 1-year tenure as a Business Operations Associate and priorly I have also worked as a freelance data analyst intern spanning 6 months, where I have gained hands-on experience in data visualization, reporting, and market insights.
+Here’s what I do best:
 
-🔹 Core Skills & Expertise:-
+Work with large datasets using SQL, MS SQL Server, MySQL, and PostgreSQL.
 
-📊 Analytical Tools: Advanced Excel, Google Sheets 
-📈 Visualization Tools: Power BI, Power BI DAX, Power BI Desktop, Power BI Service, Tableau, Looker Studio 
-💻 Databases: SQL, Microsoft SQL Server, MySQL, PostgreSQL
-📥 ETL & Data Transformation: Experienced in Data Cleaning, Modeling, and Transformation using Power Query
-☁ Cloud & IDEs: Git & GitHub, Visual Studio, Jupyter
-👨‍💻 Others: Basics of Python(Pandas, NumPy), Data Warehouse Concepts, SSIS, SSAS, Azure, Snowflake
+Build interactive dashboards using Power BI, Tableau, Looker Studio, and Excel.
 
-➡️ I am adaptable and detail-oriented, and who enjoy collaboration, problem-solving, and time management. 
-➡️ Always eager to take on new challenges, I aim to leverage my skills to transform raw data into meaningful insights and drive business impact. 
+Create automation-ready reports and reusable data models.
 
-💡 I thrive on solving complex business challenges with a strong analytical mindset, critical thinking, and data-driven storytelling. 
+Perform EDA across marketing, sales, operations, and finance.
 
-📩 Let’s connect and explore opportunities to create data-driven solutions together! 
+Use Python (Pandas, NumPy) for data cleaning and analysis.
+
+Develop DAX measures, Power Query (M Query) scripts, and optimised data models.
+
+Handle ETL processes and understand data warehouse concepts.
+
+Identify trends, conversions, drop-offs, and performance issues.
+
+Work closely with stakeholders to gather requirements and define KPIs
+
+Communicate insights clearly using strong data storytelling skills.
+
+Focus on accuracy, problem-solving, and attention to detail.
+
+🔍 Key Projects I’ve Worked On
+
+Ad Performance Analysis Dashboard: Analysed a $2.5M digital ad campaign, fixed a critical conversion drop-off, and delivered a $500K budget efficiency plan.
+
+Retail Sales Data Analysis: Examined 60K+ sales transactions and identified top-performing products and categories for strategic decisions.
+
+E-commerce Sales Dashboard: Built a Power BI dashboard to track online sales patterns using drill-downs, filters, and custom KPIs.
+
+Insurance Risk & Claims Analysis: Designed a reporting model for 37K+ insurance policies to understand risk, pricing patterns, and fraud indicators.
+
+I enjoy solving problems, exploring data, and creating insights that help teams take smarter actions. I’m always open to learning and available to join immediately.
+
+Let’s connect — jabivulla369@gmail.com
 
