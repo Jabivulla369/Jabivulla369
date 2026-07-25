@@ -1,6 +1,6 @@
 👋  Hi, I’m Shaik Mohammad Ismael Jabivulla and welcome to my Github profile.
 
-I’m a Data Analyst with 2.5+ years of experience in turning raw data into clear insights that help businesses grow. I work with SQL, Python, Power BI, Excel, and Tableau to solve real problems, build dashboards, and support decision-making.
+I’m a Data Analyst with 4 years of experience in turning raw data into clear insights that help businesses grow. I work with SQL, Python, Power BI, Excel, and Tableau to solve real problems, build dashboards, and support decision-making.
 
 Here’s what I do best:
 
